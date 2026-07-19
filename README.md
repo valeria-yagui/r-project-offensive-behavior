@@ -41,6 +41,7 @@ We started with two simple test models (sex + age, then adding education) before
 3.  **Result (Final model)**
 Several variables turned out **not** to be statistically significant: living together, labor status (not working, parental leave, retired), sadness, anxiety, risk tolerance, health status, concern about social cohesion, migration background, and number of children.
 The variables that **were** significant:
+
 | Variable | Effect on odds of being an "offender" |
 |---|---|
 | Being male | +116% |
