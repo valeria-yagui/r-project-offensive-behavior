@@ -41,19 +41,19 @@ We started with two simple test models (sex + age, then adding education) before
 3.  **Result (Final model)**
 Several variables turned out **not** to be statistically significant: living together, labor status (not working, parental leave, retired), sadness, anxiety, risk tolerance, health status, concern about social cohesion, migration background, and number of children.
 The variables that **were** significant:
-| <div align="center">Variable</div> | <div align="center">Effect on odds of being an "offender"</div> |
-| :--- | :--- |
+| Variable | Effect on odds of being an "offender" |
+|---|---|
 | Being male | +116% |
 | Low education | +25% |
-| High education | -33% |
+| High education | −33% |
 | Feeling annoyed often | +47% |
-| Feeling happy often | -26% |
+| Feeling happy often | −26% |
 | Long reflection on injustice | +105% |
-| Having at least one close friend | -24% |
+| Having at least one close friend | −24% |
 | Interest in politics | +33% |
-| Years in full-time employment | -1.2% per year |
+| Years in full-time employment | −1.2% per year |
 | Years of unemployment | +2.3% per year |
-| Years in part-time employment | -1.4% per year |
+| Years in part-time employment | −1.4% per year |
 
 ## Key Findings & Insights
 •	Men are more than twice as likely as women to react offensively.
