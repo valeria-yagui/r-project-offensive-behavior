@@ -1,8 +1,6 @@
-# R project - Offensive Behavior
+# R project - Offensive Behavior in Cases of Insults – Who Thinks So in Germany and Why?
 
-*Offensive Behavior in Cases of Insults – Who Thinks So in Germany and Why?*
-
-**Course:**Data Analytics with R, WS 2025/26 
+**Course:** Data Analytics with R, WS 2025/26 
 **Note:** This was a group project completed with 3 other teammates. The code in this repository is only my part of the analysis. I'm not uploading the full write-up or the whole group's work, only the R code and dataset needed to reproduce the results described below.
 
 ## About the Project
